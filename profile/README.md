@@ -8,18 +8,16 @@
 
 Structured DeFi Infrastructure
 
-OK-BITOK is a DeFi infrastructure platform building structured delta-neutral vault strategies focused on funding and basis markets.
-
-The protocol combines on-chain capital accounting with a professional off-chain execution stack to capture structural funding flows while maintaining controlled market exposure.
+OK-BITOK builds structured delta-neutral vault strategies designed to capture structural funding and basis flows with transparent on-chain accounting and a professional off-chain execution stack.
 
 ---
 
 ## Quick Links
 
 <p align="left">
-  <a href="https://ok-bitok.com"><img alt="Website" src="https://img.shields.io/badge/Website-ok--bitok.com-111?style=for-the-badge"></a>
-  <a href="https://docs.ok-bitok.com"><img alt="Docs" src="https://img.shields.io/badge/Docs-docs.ok--bitok.com-111?style=for-the-badge"></a>
-  <a href="https://arbiscan.io/address/0xD772A28caf98cCF3c774c704cA9514A4914b50A0"><img alt="Contract" src="https://img.shields.io/badge/Contract-Arbiscan-111?style=for-the-badge"></a>
+  <a href="https://ok-bitok.com"><b>Website</b></a> ·
+  <a href="https://docs.ok-bitok.com"><b>Docs</b></a> ·
+  <a href="https://arbiscan.io/address/0xD772A28caf98cCF3c774c704cA9514A4914b50A0"><b>Smart Contract</b></a>
 </p>
 
 ---
@@ -28,7 +26,7 @@ The protocol combines on-chain capital accounting with a professional off-chain 
 
 <p align="center">
   <a href="../ok-bitok-vault-architecture-diagram.png">
-    <img src="../ok-bitok-vault-architecture-diagram.png" alt="OK-BITOK Vault Architecture" width="900" />
+    <img src="../ok-bitok-vault-architecture-diagram.png" alt="OK-BITOK Vault Architecture" width="680" />
   </a>
 </p>
 
