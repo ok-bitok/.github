@@ -26,7 +26,7 @@ OK-BITOK builds structured delta-neutral vault strategies designed to capture st
 
 <p align="center">
   <a href="../ok-bitok-vault-architecture-diagram.png">
-    <img src="../ok-bitok-vault-architecture-diagram.png" alt="OK-BITOK Vault Architecture" width="680" />
+    <img src="../ok-bitok-vault-architecture-diagram.png" alt="OK-BITOK Vault Architecture" width="480" />
   </a>
 </p>
 
