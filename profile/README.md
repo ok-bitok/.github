@@ -16,16 +16,24 @@ The protocol combines on-chain capital accounting with a professional off-chain 
 
 ## Quick Links
 
-Website: https://ok-bitok.com  
-Docs: https://docs.ok-bitok.com  
-Contract (Arbitrum): https://arbiscan.io/address/0xD772A28caf98cCF3c774c704cA9514A4914b50A0  
+<p align="left">
+  <a href="https://ok-bitok.com"><img alt="Website" src="https://img.shields.io/badge/Website-ok--bitok.com-111?style=for-the-badge"></a>
+  <a href="https://docs.ok-bitok.com"><img alt="Docs" src="https://img.shields.io/badge/Docs-docs.ok--bitok.com-111?style=for-the-badge"></a>
+  <a href="https://arbiscan.io/address/0xD772A28caf98cCF3c774c704cA9514A4914b50A0"><img alt="Contract" src="https://img.shields.io/badge/Contract-Arbiscan-111?style=for-the-badge"></a>
+</p>
 
 ---
 
 ## Architecture
 
 <p align="center">
-  <img src="../ok-bitok-vault-architecture-diagram.png" alt="OK-BITOK Vault Architecture" />
+  <a href="../ok-bitok-vault-architecture-diagram.png">
+    <img src="../ok-bitok-vault-architecture-diagram.png" alt="OK-BITOK Vault Architecture" width="900" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Click to view full size</sub>
 </p>
 
 ---
